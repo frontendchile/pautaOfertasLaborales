@@ -1,4 +1,4 @@
-# pautaOfertasLaborales
+# Pauta Ofertas Laborales
 Pauta para publicar ofertas laborales en la Comunidad de Front End Chile.
 
 - Nombre de la Empresa: (*Campo Obligatorio).
