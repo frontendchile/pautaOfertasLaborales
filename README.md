@@ -13,5 +13,7 @@ Pauta para publicar ofertas laborales en la Comunidad de Front End Chile.
 - Nombre de Contacto: (*Campo Obligatorio).
 - Correo Electrónico de la Empresa: (*Campo Obligatorio).
 
+*Recomendamos esta plataforma para la creación de este post: [post-a-job](https://app.jet-sketch.com/post-a-job){:target="_blank"}
+
 *Todas las ofertas laborales que no cumplan con los campos obligatorios, anteriormente mencionados, serán eliminadas de la comunidad.
 Atte. el Admin. 🤗
